@@ -1,5 +1,7 @@
-#Matrix Homework - C 程序设计 （Ⅰ）
+Matrix Homework - C 程序设计 （Ⅰ）
+
 using C language
+
 total:61
 
 

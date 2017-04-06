@@ -4,9 +4,9 @@ total:61
 
 
 | content| 
-|-------|---
-|1043 Basic operation on string 2.0
-|1044 Sorting Matrices by Sum of Diagonals
+|-------|
+|1043 Basic operation on string 2.0|
+|1044 Sorting Matrices by Sum of Diagonals|
 |1045 解方程（一元二次）
 |1046 ※(选做)守望者的逃离
 |1047 Add Advance

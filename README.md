@@ -2,10 +2,8 @@
 
 
 
-
-##Matrix Homework - C 程序设计 （Ⅰ）
-
-##Matrix Homework -C++ 程序设计（Ⅱ）
+### Matrix Homework - C 程序设计 （Ⅰ）  
+### Matrix Homework -C++ 程序设计（Ⅱ）
 
 
 Matix is a SYSU oj, most of our homework is on it.  

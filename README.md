@@ -1,19 +1,16 @@
 #  courses_homework
-so far 
-it's about C and C++
 
 
 
 
-[TOC]
+##Matrix Homework - C 程序设计 （Ⅰ）
 
-Matrix Homework - C 程序设计 （Ⅰ）
-Matrix Homework -C++ 程序设计（Ⅱ）
+##Matrix Homework -C++ 程序设计（Ⅱ）
 
 
-Matix is a SYSU oj, most of our homework is on it.
-ues ※ to mark some exercise I think great.
-Each exercise has a diretory, which including 
+Matix is a SYSU oj, most of our homework is on it.  
+ues ※ to mark some exercise I think great.  
+For each assignment, here are the content:  
 
 | content| description |
 |--------|--------|
@@ -25,4 +22,5 @@ Each exercise has a diretory, which including
 Chances are that format of output isn't directly shown, studying provided codes or submitting for several times to know that is common. 
 
 and stanard answers are optional.
-I strongly recommend reading Description first.
+
+I strongly recommend reading **Description** first.

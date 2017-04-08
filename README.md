@@ -1,4 +1,4 @@
-#  courses_homework
+#  Courses_Homework
 
 
 
@@ -8,7 +8,7 @@
 
 Matix is a SYSU oj, most of our homework is on it.  
 ues ※ to mark some exercise I think great.  
-For each assignment, here are the content:  
+For each assignment, here is the content:  
 
 | content| description |
 |--------|--------|
@@ -19,6 +19,6 @@ For each assignment, here are the content:
 
 Chances are that format of output isn't directly shown, studying provided codes or submitting for several times to know that is common. 
 
-and stanard answers are optional.
+
 
 I strongly recommend reading **Description** first.

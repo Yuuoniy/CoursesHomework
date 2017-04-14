@@ -29,6 +29,15 @@ using C++ language.
 |1879 ※Alipay System 2 User Controller(eden)
 |1881 ※Doubly Linked List(eden)
 |2019 Inheritance(eden)
+|2020 Job Manager(eden)
+|2088 Travel(eden)
+|2089 D&A Static Linked List(eden)
+|2090 cpp Application Greedy Snake(eden)
+|2093 Digraph(DS)(eden)
+|2229 Inservice (eden)
+
+
+
 
 
 

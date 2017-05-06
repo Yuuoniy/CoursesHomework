@@ -1,4 +1,4 @@
- #include "Mediator.hpp"
+#include "Mediator.hpp"
 #include <list>
 #include <utility>
 using std::list;

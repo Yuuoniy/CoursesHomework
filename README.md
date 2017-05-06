@@ -21,7 +21,7 @@ Chances are that format of output isn't directly shown, studying provided codes 
 
 
 
-I strongly recommend reading **Description** first.
+I strongly recommend reading **Description** first.  
 PS: Some of our TAs are fond of dresses, it's no surprising to see some assginments are relative to the special hobby and based on personal experience.
 Well, just for fun, or maybe that's really true.
 

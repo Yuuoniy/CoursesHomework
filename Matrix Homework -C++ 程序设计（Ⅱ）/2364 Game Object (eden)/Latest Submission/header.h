@@ -1,8 +1,9 @@
- #ifndef HEADER_H
+#ifndef HEADER_H
 #define HEADER_H
 #include <iostream>
 #include <vector>
 using namespace std;
+
 class gameobject {
  protected:
   double x, y;
@@ -53,6 +54,7 @@ class zealot : public gameobject {
   }
   void attack(gameobject* other) { other->change_hp(-1); }
 };
+
 class tower : public gameobject {
  public:
   tower(int x, int y) : gameobject(x, y, 0) {}
@@ -68,7 +70,7 @@ class tower : public gameobject {
 
 void worker::build(int height) {
   for (int i = 1; i <= height; i++) {
-    printf("%*c", height - i+1, '*');
+    printf("%*c", height - i + 1, '*');
     for (int j = 1; j < i * 2 - 1; j++) printf("*");
     printf("\n");
   }

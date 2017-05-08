@@ -1,6 +1,6 @@
-#include "date.h"
-#include <stdio.h>
 #include <assert.h>
+#include <stdio.h>
+#include "date.h"
 
 void TestDate(Date* date, int after, int before) {
   printf("Year: %d\n", GetYear(date));
@@ -32,7 +32,7 @@ void TestDate(Date* date, int after, int before) {
   }
   date_string = GetDateString(date);
   printf("Another %d day(s) earlier: %s\n", before, date_string);
-  DestroyDateString(&date_string);  
+  DestroyDateString(&date_string);
 }
 
 int main() {

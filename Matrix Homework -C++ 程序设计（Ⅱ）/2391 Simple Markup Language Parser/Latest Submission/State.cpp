@@ -16,12 +16,11 @@ void DataState::destroyInstance() {
 void DataState::handleOneChar(Parser* parser, char ch) {
   if (ch == '<') {
     parser->setState(TagNameState::getInstance());
-     _cache.erase(0, _cache.find_first_not_of(" "));
+    _cache.erase(0, _cache.find_first_not_of(" "));
     _cache.erase(_cache.find_last_not_of(" ") + 1);
     if (!_cache.empty()) emit(parser->getBulider());
     return;
-  } 
-  else
+  } else
     _cache += ch;
 }
 
@@ -64,7 +63,6 @@ void TagNameState::emit(Bulider* dest) {
     temp.content = _cache;
     temp.depth = 0;
   }
-  // cout << temp.content << endl;
   dest->handleOneToken(temp);
   _cache.clear();
 }

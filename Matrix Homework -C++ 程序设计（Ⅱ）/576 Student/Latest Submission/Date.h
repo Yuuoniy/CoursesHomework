@@ -15,13 +15,10 @@ class Date {
  public:
   Date(int y, int m, int d) : _year(y), _month(m), _day(d) {}
   Date(string dateString) {
-    string year = dateString.substr(0, 4);
-    _year = atoi(year.c_str());
-    string month = dateString.substr(5);
-    _month = atoi(month.c_str());
-    string day = dateString.substr(7);
-    _day = atoi(day.c_str());
-    _day = _day < 0 ? (-_day) : _day;
+    char tmp;
+    std::stringstream ss;
+    ss << dateString;
+    ss >> _year >> tmp >> _month >> tmp >> _day;
   }  // the format of dateString is like "2017-5-7"
   int getYear() const { return _year; }
   void setYear(int y) { _year = y; }

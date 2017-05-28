@@ -31,7 +31,14 @@ using C++ language.
 |2506 Polymorphism
 |2507 Operator Overloading 2
 |2508 Mediator Pattern
-
+|2579 Vector-ND (eden)
+|2690 Stack with Template (eden)
+|2691 Template Compare (eden)
+|2692 Max Path Of Tree (eden)
+|2693 Beautiful Tree (eden)
+|2694 Review Template and Stack (eden)
+|2779 IP and QQ (eden)
+|2780 Simple Life @myLove (eden)
 
 
 
